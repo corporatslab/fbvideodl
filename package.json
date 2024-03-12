@@ -1,0 +1,28 @@
+{
+  "name": "fbvideodl",
+  "version": "1.0.0",
+  "description": "Facebook video downloader",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/corporatslab/fbvideodl.git"
+  },
+  "keywords": [
+    "Facebook",
+    "downloader"
+  ],
+  "author": "corporatslab",
+  "dependencies": {
+    "node-fetch": "2"
+  },
+  "exports": {
+    ".": "./index.js"
+  },
+  "bugs": {
+    "url": "https://github.com/corporatslab/fbvideodl/issues"
+  },
+  "homepage": "https://github.com/corporatslab/fbvideodl#readme"
+}
